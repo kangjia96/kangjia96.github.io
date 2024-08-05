@@ -11,3 +11,9 @@
 ## 🧑‍🤝‍🧑我的朋友
 - [风の守望者](https://wind-watcher.cn/)
 - [贼歪](https://varzy.me)
+
+<style>
+  html {
+    background-color: #111111;
+  }
+</style>
